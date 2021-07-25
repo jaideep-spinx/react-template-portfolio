@@ -1,0 +1,155 @@
+{
+  "main": {
+    "name": "Jaideep Tanwar",
+    "occupation": "(Your Occupation Here)",
+    "description": "I am ambitious and driven. I thrive on challenge and constantly set goals for myself, so I have something to strive towards. I’m not comfortable with settling, and I’m always looking for an opportunity to do better and achieve greatness",
+    "image": "profilePicture.jpeg",
+    "bio": "I am an gamer at heart and a passion for coding. Born in a small town in Chhaigaon Makhan, I made my move to Victoria where I work as a full stack developer, alongside my many ongoing projects. I love to create and tend to keep a few too many projects on the go at a time. Outside of work I am an avid motorcyclist. I love to travel and lead a fairly nomadic lifestyle.Dream of being able to take my work with me while travelling the world.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "jtanwar1998@gmail.com",
+    "phone": "7000549261",
+    "address": {
+      "street": "MN.224 Near Ram mandir",
+      "city": "Chhaigaon Makhan",
+      "state": "Madhya Pradesh",
+      "zip": "450771"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "Jaideep's Resume.pdf",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/JD55200685",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jaideep-singh-tanwar-b96199194/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/tbaker_x",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/jaideep-tanwar",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I'm always interested in playing around with new technologies but these are the ones that have really won me over",
+    "education": [
+      {
+        "school": "Indore Institute of Science And Technology",
+        "degree": "Bachelor of Engineering",
+        "graduated": "July 2020",
+        "description": "Here I took my Bachelors of Information Technology with a Software Engineering Specialty and achieved a much more thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for scalable application programming (web)."
+      },
+      {
+        "school": "ST.Jones Convent school",
+        "degree": "Higher Secondary",
+        "graduated": "March 2016",
+        "description": "From here, I passed out 12th standard with distinction, explored and learnt so many things as well as acquired the skills like Team player as I was a sports person and ability to think in multiple direction e.g solve complex problem in simple manner."
+      }
+    ],
+    "work": [
+      {
+        "company": "Pronix Technologies PVT. LTD",
+        "title": "Full Stack Developer",
+        "years": "February 2020 - Present",
+        "description": "Experienced Full Stack Developer with a demonstrated history of working in the information technology and services industry. Skilled in .NET, JavaScript, HTML5, AJAX, Angular JS, Angular 9, React JS, Next JS, Node JS, MSSql, Jquery and Bootstrap."
+      }
+    ],
+    "skills": [
+      {
+        "name": ".Net",
+        "level": "70%"
+      },
+      {
+        "name": "AngularJs",
+        "level": "80%"
+      },
+      {
+        "name": "Angular 9",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "NextJs",
+        "level": "50%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "50%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Jquery",
+        "level": "80%"
+      },
+      {
+        "name": "MSSql",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "70%"
+      },
+      {
+        "name": "Git & Github",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      }
+    ]
+  }
+}
