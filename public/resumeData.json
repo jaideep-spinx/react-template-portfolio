@@ -113,34 +113,34 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
+        "title": "Next Js with  Firebase",
         "category": "My Travel Blog for my post-university travels",
         "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "url": "https://github.com/Rikiricks/Next-Firebase"
       },
       {
-        "title": "Fury Fighting Gear",
+        "title": "Node Js with Sequelize",
         "category": "(offline now) A fighting gear company I started",
         "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "url": "https://github.com/Rikiricks/NodeSequelizeRicks"
       },
       {
-        "title": "Original Thai Food",
+        "title": "Angular Crud",
         "category": "Website I built for a restaurant I like in Thailand",
         "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "url": "https://github.com/Rikiricks/AngularCrudRicks"
       },
       {
-        "title": "Resume Website",
+        "title": "React Project",
         "category": "A React based resume website template",
         "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
+        "url": "https://github.com/Rikiricks/ReactRicks"
       },
       {
-        "title": "Smirkspace",
+        "title": "Angular Demo",
         "category": "(MVP Only) A React and Meteor based chat University project.",
         "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "url": "https://github.com/Rikiricks/AngularDemoRicks"
       }
     ]
   },
